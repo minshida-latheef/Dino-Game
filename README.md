@@ -35,20 +35,7 @@ The game becomes more challenging as the player progresses.
 6. Restart and try to beat your highest score!
 
 
-## 💻 How to Run
-
-1. Clone this repository:
-
-   ```bash
-   git clone YOUR_REPOSITORY_URL
-   ```
-
-2. Open the project folder.
-3. Run `index.html` in your web browser.
-4. Enjoy playing!
-
-
-[Play Dino Game](YOUR_LIVE_DEMO_URL)
+[Play Dino Game](https://minshida-latheef.github.io/Dino-Game/)
 
 ---
 
